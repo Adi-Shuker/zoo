@@ -1,0 +1,3 @@
+interface Species{
+    getDetalis():string;
+}
